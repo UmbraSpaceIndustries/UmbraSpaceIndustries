@@ -1,0 +1,200 @@
+0.5.0 - (KSP 1.2)
+------------------
+The Nom-O-Matics have been deprecated for improved models.  They have been moved to a LEGACY folder to prevent breaking existing saves, though they may not have textures.  This folder will be deleted with the next KSP release.
+The new Nom-O-Matics can operate in three modes: 
+ - As a Converter (Mulch+Fertilizer=Supplies)
+ - As a Recycler (using a biological filter)
+ - As a Hab Multiplier (By repurposing the hab as an indoor mini-park with pretty plants)
+Switching modes after launch will cost 1,000 EC and 200 supplies, and is an EVA action performed by an engineer.
+The two radial Nom-O-Matics have been replaced by new, more stock-alike models
+In Habitation Multipler mode, EC is still consumed to keep the units operational
+Recycler EC cost has been increased (Be sure to check the tooptips)
+Fixed an issue in persisting configs that may have resulted in corrupted life support settings, so be sure to recheck these in space center view and re-save.
+Fixed a node issue on the inline greenhouse
+All life support items now appear in a new 'Life Support' category.
+Added a mini cupola with a corresponding hab bonus.
+Less hobbit-like Kerbals.  The default supply consumption has been adjusted slightly downward (from 16.2 per day to 10.8 per day) - no more second breakfasts.  To adjust for this, change per second consumption to 0.0005 from 0.00075 in the GUI.
+Crew capacity only results in a 7.5 day hab bonus as opposed to 30 days.  This is being done to keep things balanced with dedicated habitation parts, which will have more space but less mass.
+WIth the inclusion of switchable parts, stock adjustments have been rebalanced.
+- The crewed lab is now a less efficient recycler (50% for 4 Kerbals) to reflect most of its capacity being devoted to being, well, a science lab.
+- The Hitchhiker gets a buff to its hab extension
+- The Cupola gets a buff to its hab multiplier as well as a hab extension bonus
+
+0.4.4 - (KSP 1.1.3)
+------------------
+Dependency Updates
+EC can now be configured independently of supplies.  For existing saves, if you see any NaNs just open your config settings in the space center scene and save.
+EC stats are now displayed in flight
+The mini ISRU can now extract trace elements suitable for use as a fertilizer from Ore.  Note that this is a very inefficient operation.
+
+0.4.3.1 - 2016.05.15
+--------------------
+Guard clauses are important.
+
+0.4.3 - 2016.05.14
+------------------
+Dependency Updates
+Fixed some status spam
+Added a new config menu accessible from the space center menu
+
+0.4.2.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.4.2 - 2016.04.30
+------------------
+Dependency Updates
+
+0.4.1 - 2016.04.16
+------------------
+Removed conflicting resource definitions
+All tanks are now CLS passable
+A lot of habitation tweaks thanks to bennord!
+Fixed an issue where undocked vessels reset the negative supply timer
+Added tooltip info for habitation and recycling
+ReplacementParts are no longer transferrable via TAC FuelBalancer
+
+0.4.0 - 2016.03.29
+-------------
+Compatibility with KSP 1.1
+
+0.3.15 - 2016.03.03
+-------------------
+Fixed that bug.  For real this time.
+
+0.3.14 - 2016.03.03
+-------------------
+Fixed a bug with resource consumption
+
+0.3.13 - 2016.03.02
+-------------------
+Remove ReplacementParts input ressource from MPL (thanks far-lobyte!)
+Fixed issue with empty vessels and supply consumption upon Kerbals entering (thanks JPLRepo!)
+added more info to the VAB info windows (Thanks bennord!)
+Orbiting/Splashed/Landed should display correctly now.
+Both hab time and homesickness time are shown.  When either timer expires, the habitation effect takes place.
+Corrected an issue that was causing hab time to incorrectly reset.
+Fixed an issue where supply consumption was out of sync with recyclers/etc. during catch-up mechanics.
+Fixed an issue causing diminishing returns for recyclers 
+Fixed an issue where certain settings were not having effects
+
+0.3.12 - 2016.02.13
+-------------------
+Various display bug fixes
+
+0.3.11 - 2016.02.08
+-------------------
+Increased default hab multiplier by 5x (this will remain as the default for MKS-Lite, but not for UKS which will use the default of 1x)
+Fixed an issue where recyclers were not shutting off (boo!)
+
+0.3.10 - 2016.02.08
+-------------------
+Fixed an issue where recyclers were working without their resources
+
+0.3.9 - 2016.02.04
+-------------------
+Fixed issue that was causing some life support stats to vanish
+Fixed an issue where recyclers were not.. well... recycling.
+Fixed an issue that would potentially make permanent tourists
+
+0.3.8 - 2016.02.03
+------------------
+Performance update, general bug fixing
+
+0.3.7 - 2016.02.02
+------------------
+Fixed a gui glich showing an unused menu option
+Added kerbal experience trait (P/E/S) to LS GUI
+Removed habitation by default as it was causing some confusion.  Recyclers remain on by default.
+
+0.3.6 - 2016.02.01
+------------------
+Lots of optimizations and small bug fixes
+
+0.3.5 - 2016.01.25
+------------------
+Fixed an issue with the cupola config
+The Science Lab is now a 70% recycler
+Kerbals now consume (by default) 16.5kg of supplies per day
+Nom O Matics have been tweaked to be converters based on the new scale
+Habitation is now on by default (since there are sufficient stock parts to cover the mechanic)
+See LSModule.cfg for suggested settings for modders making USI-LS compatible parts
+
+0.3.4 - 2016.01.25
+------------------
+Fixed a typo in the hab multiplier foruma that used crew capacity not current crew
+The cupola now acts as a hab multiplier
+
+0.3.3 - 2016.01.24
+------------------
+Fixed a few formula bugs, and added a crew capacity cap for hab multipliers
+
+0.3.2 - 2016.01.20 
+------------------
+Fixed an issue where crew were being doubled when showing the supplies left in the UI
+Updated a few issues where the Kerbal's supply counter was not updating properly
+Wear is off by default, and when not enabled, will not show in the GUI
+
+0.3.1 - 2016.01.19
+------------------
+Bundled USITools
+
+0.3.0 - 2016.01.18
+------------------
+EVA timer is now based on how long the kerbal has been EVA.
+Habitation space is now a thing - see the forum for details.  
+The in-flight view has had a visual refresh to reflect the new data.
+Multiple LS configs are now supported, with a delta inclusive of the most pessimistic changes being used.
+Added displays to the tracking station, space center, and VAB/SPH
+SPH display includes build aid information for the current vessel
+Reduced mass of Nom-O-Matic 5000
+Kerbals no longer raid the supply tins - but they will unlock all of them.
+Corrected stack nodes for nom tanks
+Kerbals in command seats should properly consume supplies
+Recyclers and Habitation calculations, if enabled, can extend to nearby landed vessels to better facilitate disconnected bases.
+
+0.2.1 - 2016.01.01
+------------------
+Fixed bug where crew were starving on Kerbin
+Fixed vessel display issues (hopefully) in flight
+
+0.2.0 - 2015.12.29
+------------------
+24-hour clock support and cost fixes (thanks Kerbas-ad-astra!)
+Empty vessels are now properly cleaned up
+Command Chairs are now checked for life support
+Tin-raiding has been replaced by an auto-unlock feature
+A host of new config values are now included - update to taste.  
+
+
+0.1.7 - 2015.11.19
+------------------
+Pushed version number up a bit due to some version number shenanigans
+Adjusted mass of Nom-O-Matic 5000 (thanks mhoram!)
+Corrected various part costs (thanks fat-lobyte!)
+Fixed an issue where returned Kerbals were remaining tourists
+
+0.1.4 - 2015.11.09
+------------------
+Update for KSP 1.0.5
+
+0.1.3 - 2015.06.26
+* You can now access the life support screen from the KSC, VAB, and Tracking Station
+* Life Support should no longer cause unanticipated part activations
+* Added 'Fertilizer' as a resource
+* Increased the cost of Mulch
+* Added token mulch storage to all inline tanks
+* Added a larger greenhouse that can also use fertilizer to extend supplies
+* Mini packs for mulch and fertilizer
+* Only crewed vehicles are showed in the life support summary window
+* Once supplis go in the red, replaced the negative time with 'crew lost'
+* Added parameter for the altitude at which kerbals are considered supplied on Kerbin
+* Added parameter to toggle the immunity of verterans (orange suits)
+
+
+
+0.1.1 - 2015.05.04
+* Added a new 100-liter radial NOMS tank
+* Vets (Jeb/Val/Bill/Bob) should now be immune to supply deprivation
+* Rescue Kerbals should not die nearly as instantly...
+* Added a mini greenhouse 

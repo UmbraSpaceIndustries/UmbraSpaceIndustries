@@ -1,0 +1,63 @@
+0.6.0 - (KSP 1.2)
+------------------
+Increased ducted fan EC usage, slightly decreased thrust
+Ducted fan sound effects have been updated
+Ducted fan engine now has the appropriate blurred prop animation.
+The HERP Jumpseat has been deprecated
+Transparent glass has been replaced with interim opaque glass (this will change once JSI Transparent Pods are implemented)
+Shrunk the collider for the packrat crate to avoid locking issues with rear wheels
+Fixed invalid packrat mini wheel texture
+Fixed packrat attachment nodes and colliders to prevent wheels locking
+
+
+0.5.4 - (KSP 1.1.3)
+------------------
+Dependency Updates
+
+0.5.3 - 2016.05.14
+------------------
+Dependency Updates
+Added a new node to the AES for better rover making (thanks mcortez)
+
+0.5.2.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.5.2 - 2016.04.30
+------------------
+Dependency Updates
+Fixed an issue with the AES IVA 'dropping'
+
+0.5.1 - 2016.04.16
+------------------
+Made PackRat Miniwheel less explody
+Fixed typo in experiment results (thanks Zhetaan!)
+Reduced RCS tank dry mass (thanks LouisB3!)
+
+0.5.0 - 2016.03.29
+-----------
+Compatibility with KSP 1.1
+
+0.4.5 - 2016.03.02
+------------------
+Dependency Updates
+
+0.4.4 - 2016.01.18
+------------------
+Adjusted PackRat KIS sizes to some manageable levels
+Fixed backwards AES node
+
+0.4.3 - 20125.11.09
+-------------------
+KSP 1.0.5 compatibility
+Fixed atmo curve issue with ducted fans
+Corrected node issue with micro ducted fan
+Removed ModuleRCSFX
+
+0.4.2 - 2015.10.16
+------------------
+Updated dependencies and KSP version
+CTT and node fixes
+Reduced heat generation of mini ducted fan engine
+Various tweaks for 1.0.4
+

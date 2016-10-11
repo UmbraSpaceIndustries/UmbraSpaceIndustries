@@ -1,0 +1,55 @@
+0.3.0 - (KSP 1.2)
+------------------
+The Orion engines no longer have variable pulse rates (as this is not consistent with the real drive designs).  Rather, thrust can only be adjusted by changing cartridge size (pulse rate is consistent).  This makes the drive a bit harder to use, and a bit more balanced given its position as early interstellar tech.
+Updated descriptions
+
+0.2.4 - (KSP 1.1.3)
+------------------
+Dependency Updates
+
+0.2.3 - 2016.05.14
+------------------
+Dependency Updates
+
+0.2.2.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.2.2 - 2016.04.30
+------------------
+Dependency Updates
+
+0.2.1 - 2016.04.16
+------------------
+Compatibility Update with 1.1
+
+0.2.0 - TBD
+-----------
+Compatibility with KSP 1.1
+
+0.1.3 - 2016.03.02
+------------------
+Dependency Updates
+
+0.1.2.0 - 2016.01.18
+--------------------
+Orion and Medusa engines now go boom!
+Adjusted float curve for bomb explosions
+Converted textures to DDS
+
+0.1.1.0 - 2015.11.09
+--------------------
+Update for KSP 1.0.5
+
+0.1.0.2 - 2015.10.27
+--------------------
+Bundled Firespitter (needed for tank switching)
+
+0.1.0.1 - 2015.10.16
+--------------------
+Fixed typo in version file
+
+0.1.0 - 2015.10.16
+--------------------
+Synced up with current USI Core code
+Added KSP-AVC support
