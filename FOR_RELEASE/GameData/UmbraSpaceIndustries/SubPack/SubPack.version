@@ -1,0 +1,31 @@
+{
+     "NAME":"USI Submarine Pack",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/SubPack/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/SubPack/SubPack.version",
+	 "DOWNLOAD":"https://github.com/BobPalmer/SubPack/releases",
+     "GITHUB":{
+         "USERNAME":"BobPalmer",
+         "REPOSITORY":"SubPack",
+         "ALLOW_PRE_RELEASE":false
+     },
+     "VERSION":{
+         "MAJOR":0,
+         "MINOR":2,
+         "PATCH":2,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     }
+ } 
