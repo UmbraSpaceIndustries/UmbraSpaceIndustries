@@ -1,3 +1,7 @@
+0.3.1 - (2016.10.16)
+------------------
+Dependency Updates
+
 0.3.0 - (KSP 1.2)
 ------------------
 The Karibou wheels can be retracted again!
