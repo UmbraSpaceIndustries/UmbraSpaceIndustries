@@ -1,0 +1,31 @@
+{
+     "NAME":"USI Survivability Pack",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/SrvPack/master/FOR_RELASE/GameData/UmbraSpaceIndustries/SrvPack/SrvPack.version",
+	 "DOWNLOAD":"https://github.com/BobPalmer/SrvPack/releases",
+     "GITHUB":{
+         "USERNAME":"BobPalmer",
+         "REPOSITORY":"SrvPack",
+         "ALLOW_PRE_RELEASE":false
+     },
+     "VERSION":{
+         "MAJOR":0,
+         "MINOR":6,
+         "PATCH":1,
+         "BUILD":0
+     },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":0
+     }
+ }
