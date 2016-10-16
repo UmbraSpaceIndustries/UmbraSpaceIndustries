@@ -1,3 +1,11 @@
+0.5.2 - 2016.10.16
+------------------
+Dependency Updates
+
+0.5.1 - 2016.10.15
+------------------
+Updated categories for sounding rocket parts (Thanks IronCretin!)
+
 0.5.0 - (KSP 1.2)
 ------------------
 Added some differences in the sounding rocket engine ISP levels and thrust for a bit more variety and long term use

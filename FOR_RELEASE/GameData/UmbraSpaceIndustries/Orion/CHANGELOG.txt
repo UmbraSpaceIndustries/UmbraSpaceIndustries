@@ -1,3 +1,7 @@
+0.3.0 - 2016.10.16
+------------------
+Made atmospheric nerf optional
+
 0.3.0 - (KSP 1.2)
 ------------------
 The Orion engines no longer have variable pulse rates (as this is not consistent with the real drive designs).  Rather, thrust can only be adjusted by changing cartridge size (pulse rate is consistent).  This makes the drive a bit harder to use, and a bit more balanced given its position as early interstellar tech.
