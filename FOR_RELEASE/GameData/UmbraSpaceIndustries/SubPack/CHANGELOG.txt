@@ -1,3 +1,8 @@
+0.2.4 - (KSP 1.2.1)
+-------------------
+Dependency Updates
+Moved the Otter to Advanced Exploration
+
 0.2.3 - 2016.10.22
 ------------------
 Dependency Updates

@@ -1,3 +1,10 @@
+0.3.3 - (KSP 1.2.1)
+-------------------
+A lot of CTT / Tech Node / Category updates from SirCharizard17!
+WheelSounds support (Thanks Snacksquatch!)
+Portrait slots for the KER Passenger Cab (Thanks Li0n-0!)
+Better MM support (Thanks Li0n-0!)
+
 0.3.2 - 2016.10.22
 ------------------
 Dependency Updates
