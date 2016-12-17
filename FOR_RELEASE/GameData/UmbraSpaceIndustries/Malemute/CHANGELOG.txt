@@ -1,3 +1,7 @@
+0.2.4 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+
 0.2.3 - (KSP 1.2.1)
 -------------------
 Added WheelSounds mod support (Thanks Snacksquatch!)

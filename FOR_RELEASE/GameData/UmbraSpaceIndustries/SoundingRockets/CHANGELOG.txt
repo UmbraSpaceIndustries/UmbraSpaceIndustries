@@ -1,3 +1,9 @@
+0.5.5 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+The Avionics Package and the .35m probe core now have basic transmitters built in (similar to all stock parts)
+The inline probe core now has Kerbnet access
+
 0.5.4 - (KSP 1.2.1)
 -------------------
 Dependency Updates
