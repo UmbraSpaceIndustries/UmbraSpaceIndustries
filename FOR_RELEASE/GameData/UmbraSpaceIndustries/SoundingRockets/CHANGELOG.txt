@@ -1,3 +1,10 @@
+0.5.6 - 2017.01.01
+-------------------
+Some minor cost adjustments (a few things are now less expensive)
+There are two new parachutes - a cargo drogue chute and a large cargo chute.  Use these to avoid chute spam and to land truly massive payloads.
+Grid fins will now properly disable control surfaces when not deployed.  Note that since the module has changed, existing action groups will not work - you will need to reassign them.
+The 0.625m SRB has a fixed surface attach node
+
 0.5.5 - (KSP 1.2.2)
 -------------------
 Updates for KSP 1.2.2

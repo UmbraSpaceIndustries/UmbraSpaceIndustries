@@ -1,3 +1,7 @@
+0.2.5 - 2017.01.01
+------------------
+Fixed geology lab's Kerbnet access (Thanks Wyzard256!)
+
 0.2.4 - (KSP 1.2.2)
 -------------------
 Updates for KSP 1.2.2
