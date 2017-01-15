@@ -1,4 +1,4 @@
-0.2.5 - 2017.01.01
+0.2.6 - 2017.01.15
 ------------------
 Fixed geology lab's Kerbnet access (Thanks Wyzard256!)
 

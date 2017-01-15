@@ -1,3 +1,7 @@
+0.5.7 - 2017.01.15
+------------------
+Dependency Updates
+
 0.5.6 - 2017.01.01
 -------------------
 Some minor cost adjustments (a few things are now less expensive)
