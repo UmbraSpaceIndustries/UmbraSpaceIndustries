@@ -1,3 +1,7 @@
+0.2.9 - 2017.05.06
+------------------
+Dependency Updates
+
 0.2.8 - 2017.03.17
 -------------------
 Removed all references to ReplacementParts as those are not being currently used
