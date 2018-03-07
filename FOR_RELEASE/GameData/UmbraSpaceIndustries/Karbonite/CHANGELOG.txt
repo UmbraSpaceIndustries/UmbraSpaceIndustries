@@ -1,4 +1,4 @@
-0.10.1 - [PRE-RELEASE]
+0.10.1 - 2017.03.06
 ------------------
 Depencency Updates
 

@@ -1,4 +1,4 @@
-0.8.1 - [PRE-RELEASE]
+0.8.1 - 2017.03.06
 ------------------
 Depencency Updates
 Added internal antennas (Thanks Voicey99!)

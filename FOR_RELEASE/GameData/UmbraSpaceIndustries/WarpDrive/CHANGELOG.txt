@@ -1,4 +1,4 @@
-0.8.0 - [PRE-RELEASE]
+0.8.0 - 2017.03.06
 ------------------
 Major Changes thanks to Helaeon (Thanks!  You rock!)
 - ZZZ's Warp Drive Models now included standard

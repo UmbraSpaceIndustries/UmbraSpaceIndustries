@@ -1,4 +1,4 @@
-0.7.1 - [PRE-RELEASE]
+0.7.1 - 2017.03.06
 ------------------
 Depencency Updates
 USI-LS containers now support USI warehouse logistics

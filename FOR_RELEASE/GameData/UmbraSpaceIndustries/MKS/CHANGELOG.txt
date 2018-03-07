@@ -1,4 +1,4 @@
-0.53.1 - [PRE-RELEASE]
+0.53.1 - 2017.03.06
 ------------------
 Depencency Updates
 Fixed an issue where habitation time would have unpredictable effects when entering/leaving shared life support range
@@ -13,6 +13,9 @@ Fixed the Habitation capability of the Karibou Crew Cab (Thanks voicey99!)
 Orbital Logistics are back!
 - Both Tundra and Duna Logistics Modules can now initiate transfers.  
 - Both sending and receiving vessels require a logistics module to be present.
+Drills have received a balance pass.  Mass will tend to drop a bit, efficiency will slightly increase for manned drills, decrease for unmanned drills.  These tweaks are reflected on the USI Balance Worksheet.
+An issue causing extreme lag when working with parts that have swappable converters has been corrected, and the configs of all parts with swappable converters have been updated.
+
 
 
 0.53.0 - 2017.10.09

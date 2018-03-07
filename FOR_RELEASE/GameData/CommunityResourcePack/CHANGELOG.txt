@@ -1,4 +1,4 @@
-0.8.1 - [PRE-RELEASE]
+0.8.1 - 2017.03.06
 ------------------
 Fixed an issue with Chinese localization that was causing the game to hang during load.  Thanks to everyone that helped with this!
 Added Russian translations (Thanks doktorjet)
