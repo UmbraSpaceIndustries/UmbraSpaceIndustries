@@ -84,7 +84,7 @@ pipeline {
             Remove-Item -Path "./artifacts/*" -Recurse -Force
           }
           New-Item -Path . -Name "artifacts" -ItemType Directory -Force
-          Copy-Item -Path ./FOR_RELEASE/* -Destination ./artifacts -Recurse
+          New-Item -Path ./artifacts -Name "GameData" -ItemType Directory -Force
           Copy-Item -Path ./*.txt -Destination ./artifacts
 
           Write-Output "Pulling in cached dependencies..."
