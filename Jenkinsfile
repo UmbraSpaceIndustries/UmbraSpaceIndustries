@@ -85,6 +85,7 @@ pipeline {
           }
           New-Item -Path . -Name "artifacts" -ItemType Directory -Force
           New-Item -Path ./artifacts -Name "GameData" -ItemType Directory -Force
+          New-Item -Path ./artifacts/GameData -Name "UmbraSpaceIndustries" -ItemType Directory -Force
           Copy-Item -Path ./*.txt -Destination ./artifacts
 
           Write-Output "Pulling in cached dependencies..."
