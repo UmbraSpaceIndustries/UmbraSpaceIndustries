@@ -122,6 +122,7 @@ pipeline {
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "ReactorPack") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "SoundingRockets") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "SrvPack") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
+          Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "SubPack") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "USICore") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "WarpDrive") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
           Copy-Item -Path (Join-Path -Path $UsiCachePath -ChildPath "WOLF") -Destination ./artifacts/GameData/UmbraSpaceIndustries -Recurse
