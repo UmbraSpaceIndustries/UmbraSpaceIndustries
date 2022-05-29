@@ -1,4 +1,4 @@
-# USI_Constellation
-The entire USI Constellation in one place!
+Umbra Space Industries (USI)
+===
 
-This fork/pull is for adding additional flavor text to the new USI Science parts.
+This repository is a publishing point for the entire suite of USI mods for [Kerbal Space Program](http://kerbalspaceprogram.com) packaged in a single download. All source code and game assets reside in the GitHub repositories for the individual mods included in this download.
